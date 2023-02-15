@@ -67,6 +67,9 @@ Oversampling is a great strategy. The idea is simple and intuitive: If one class
 
 ![Capture](https://user-images.githubusercontent.com/114257085/218913509-2ebdcb8c-e096-4112-b11f-d616fa335f53.PNG)
 
+
+The metrics of the minority class (precision, recall, and F1 score) are slightly improved over those of random oversampling.
+
 **Undersampling**
 
 ![Capture](https://user-images.githubusercontent.com/114257085/218913667-99197e64-e2dd-4edd-8a8d-5e752f06e29e.PNG)
